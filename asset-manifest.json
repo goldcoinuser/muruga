@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/muruga/static/css/main.e3a35281.chunk.css",
+    "main.js": "/muruga/static/js/main.d0b4118b.chunk.js",
+    "main.js.map": "/muruga/static/js/main.d0b4118b.chunk.js.map",
+    "runtime-main.js": "/muruga/static/js/runtime-main.7f0070ca.js",
+    "runtime-main.js.map": "/muruga/static/js/runtime-main.7f0070ca.js.map",
+    "static/js/2.feedbfe8.chunk.js": "/muruga/static/js/2.feedbfe8.chunk.js",
+    "static/js/2.feedbfe8.chunk.js.map": "/muruga/static/js/2.feedbfe8.chunk.js.map",
+    "index.html": "/muruga/index.html",
+    "static/css/main.e3a35281.chunk.css.map": "/muruga/static/css/main.e3a35281.chunk.css.map",
+    "static/js/2.feedbfe8.chunk.js.LICENSE.txt": "/muruga/static/js/2.feedbfe8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f0070ca.js",
+    "static/js/2.feedbfe8.chunk.js",
+    "static/css/main.e3a35281.chunk.css",
+    "static/js/main.d0b4118b.chunk.js"
+  ]
+}
